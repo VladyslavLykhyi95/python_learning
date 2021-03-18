@@ -1,1 +1,1 @@
-first string
+some changes left -first string
